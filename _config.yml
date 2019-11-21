@@ -63,7 +63,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
