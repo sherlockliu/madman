@@ -43,7 +43,7 @@ sidebar-about-description: "说点装逼的话。。。"
 #sidebar-avatar:/img/avatar-by.JPG  
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
